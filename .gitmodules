@@ -1,0 +1,3 @@
+[submodule "third_part/hiredis"]
+	path = third_part/hiredis
+	url = https://github.com/yankunjing/hiredis.git
